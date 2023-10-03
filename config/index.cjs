@@ -52,8 +52,8 @@ const USER_CONFIG = {
       name: 'frankcao',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oEjM86_Z3i1Cvb5HcM1rts9zlYcw',
-      // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'WhnI43V_BzwWKteDfdgm2gmUTBoHoWlkeu0al_gUU1M',
+      // 使用 微信测试号：你想对他发送的模板消息的模板ID
+      useTemplateId: '8INrnDWsSAwMeGp1hLFJi13jZhwLoS86njHKu5jaW7o',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
